@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    align-items: center;
+    margin: 50px;
+    color:blueviolet;
+    text-decoration-thickness: inherit;
+}
+ol{
+    margin-left: 600px;
+    color: black;
+}
+
+p{
+    margin-left: 600px;
+    color: brown;
+    text-decoration: wavy;
+
+    
+}
+body{
+    background-color: rgb(228, 218, 205);
+}
